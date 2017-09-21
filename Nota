@@ -1,0 +1,46 @@
+Nombre Integrante 1:
+Nombre Integrante 2:
+Nombre Integrante 3:
+
+Con respecto a la inspección del código fuente de ejemplo, responda las siguientes preguntas:
+
+I.	Ubique la plantilla vendedores.xhtml, revise las invocaciones que se realizan al managed bean VendedorBean, ubique la acción para agregar un vendedor ¿Cómo se realiza esta invocación?
+
+
+La invocación se realiza como corresponde a JSF, se inyecta como EJB el servicio de agregar clientes, no se instancia el servicio sino que se toma uno que ya está intanciado en el contenedor.
+
+
+
+II.	En la acción borrar un vendedor en la plantilla vendedores.xhtml, ¿Cómo se pasa el parámetro para identificar el vendedor que debe ser eliminado?
+
+La vista Con la etiqueta f:param se envía como parámetro la identificación del empleado del registro en el que dieron clic para la acción de eliminar, luego en el manage bean por medio de FacesContex en el que está toda la información contextual, se obtiene el parámetro que fue enviado y se procede a eliminar.
+
+
+
+
+III.	Revise las interfaces IServicioVendedoresMockLocal e IServicioVendedoresMockRemote ¿Qué tipo de interfaces son?
+
+Es una interfaz con notación local para el caso de IServicioVendedoresMockLocal y remota para IServicioVendedoresMockRemote, la remota permite que ,…se invoque 
+
+
+
+
+IV.	¿Si usted cambia la anotación @Stateful a @Stateless del session bean ServicioVendedoresMock qué consecuencias habrían la aplicación? ¿Qué consecuencias genera la anotación @Singleton?
+
+Si se cambia a StateLess sigue funcionando normalmente porque los métodos de este sesión bean ServicioVendedoresMock recibe los parámetros necesarios para realizar sus operaciones y no dependen de estados anteriores.
+
+Si se cambiar por singleton no afecta ya que los métodos son independientes del cliente que los ejecuta, pero podría presentarse cuello de botella, y debería tenerse un bloqueo de la escritura mientras se està ejecutando la consulta de todos los clientes para que se tenga consistencia.    aunque lo recomendado en JEE6 es que el singleton se utilice cunado un estado debe ser compartido por toda la aplicación.
+
+
+
+
+
+
+
+
+
+
+V.	Revise las pruebas JUnit implementadas. En el proyecto Web, en el test del servicio de seguridad (LoginBeanTest), la inyección de la dependencia se hace por medio de la instanciación del mock object que la implementa. Por otro lado, en el proyecto EJB, la inyección de la dependencia en el test de VendorServices (ServicioVendedoresMockTest) se hace por medio de JNDI. ¿Cuál es la diferencia? Ejecute ambas pruebas dos veces, una con la aplicación desplegada en el servidor y otra sin dicho despliegue. ¿Qué puede concluir de dichas ejecuciones? Sea claro y concluyente.
+
+El de ServicioSeguridadMock es una clase que implementa una interfaz, no està definido como un EJB. Por ello se puede obtener una instancia de èl.
+Para el caso de ServicioVendedoresMockTest Si se està probando un EJB por ello no puede ser instanciado sino que se debe tomar la instancia que tiene el contenedor. Para esto debo localizar por medio de JNDI y obtener la instancia. Debido a que JUnit no se encuentra en el contenedor de EJB
