@@ -1,0 +1,111 @@
+
+Servicio Reporte
+
+List<ReporteVenta> registrosReporte = new List<ReporteVenta>();
+List<RegistroVenta> ventas = persistencia.findall(RegistroVenta.class)
+
+
+Calendar now = Calendar.getInstance();
+
+int maximo = Calendar.getInstance().getActualMaximum(Calendar.DAY_OF_MONTH);
+int minimo = Calendar.getInstance().getActualMinimum(Calendar.DAY_OF_MONTH);
+Date fechaReferencia = fechaMinima;
+
+for(int i == minimo; i<= maximo; i++){
+	ReporteVenta registro = new ReporteVenta();
+	registro.fecha = 
+
+	for(RegistroVenta registro: ventas){
+		
+	}
+
+}
+
+
+for(int d=1; d<=total; d++) {
+         cal.set(Calendar.DAY_OF_YEAR, d);
+         Date date=cal.getTime();
+         System.out.println(d+" "+formatter.format(date)); 
+      }
+////  C#
+
+public IEnumerable<DateTime> EachDay(DateTime from, DateTime thru)
+{
+    for(var day = from.Date; day.Date <= thru.Date; day = day.AddDays(1))
+        yield return day;
+}
+
+foreach (DateTime day in EachDay(StartDate, EndDate))
+
+
+
+fechaReferencia =
+
+Date dt = new Date();
+Calendar c = Calendar.getInstance(); 
+c.setTime(dt); 
+c.add(Calendar.DATE, 1);
+dt = c.getTime();
+
+
+
+
+
+
+
+	
+}
+
+class ReporteVenta{
+	private Date fecha;
+	private int cantidad;
+	private Double valor;
+
+}
+
+
+
+
+///////////////////////////////////
+
+SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM");
+Date start = sdf.parse("2010.01");
+Date end = sdf.parse("2010.04");
+
+GregorianCalendar gcal = new GregorianCalendar();
+gcal.setTime(start);
+
+while (!gcal.getTime().after(end)) {
+    Date d = gcal.getTime();
+    System.out.println(d);
+    gcal.add(Calendar.MONTH, 1);
+}
+
+Output:
+
+Fri Jan 01 00:00:00 WST 2010
+Mon Feb 01 00:00:00 WST 2010
+Mon Mar 01 00:00:00 WST 2010
+Thu Apr 01 00:00:00 WST 2010
+
+/////////////////////////
+
+public List<ReporteVenta> getDaysBetweenDates(Date startdate, Date enddate)
+{
+
+	int maximo = Calendar.getInstance().getActualMaximum(Calendar.DAY_OF_MONTH);
+	int minimo = Calendar.getInstance().getActualMinimum(Calendar.DAY_OF_MONTH);
+	Date fechaReferencia = fechaMinima;
+
+    List<Date> dates = new ArrayList<Date>();
+    Calendar calendar = new GregorianCalendar();
+    calendar.setTime(startdate);
+
+    while (calendar.getTime().before(enddate))
+    {
+        Date result = calendar.getTime();
+        dates.add(result);
+        calendar.add(Calendar.DATE, 1);
+    }
+    return dates;
+}
