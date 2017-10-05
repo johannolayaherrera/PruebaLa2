@@ -1,53 +1,17 @@
-Selecciones que influyen en su programa Para aplicar CMMI en su organización para la mejora de procesos, se deben seleccionar los tres elementos siguientes:
- 1. El alcance en la organización.
-Equipo de trabajo CraftTech
- 2. El modelo. 
-El modelo seleccionado es CMMIDEV
-3. La representación
-	Representaciòn continua para los 3 procesos realizarlos con nivel de capacidad 1.
+Estableciendo
 
-Representaciòn continua se enfoca en las áreas de proceso , seleccionar un proceso especifico que esté causando problemas, para atacar los procesos específicos en los cuales se tienen los problemas, mejorar varios procesos en diferentes niveles 
-Se adquiere nivel de capacidad para un área indicada
-
-El mejoramiento en distintos niveles según como se aprecie que se requiera
-
-Nivel de capacidad consiste en prácticas genéricas y especificas de un área de proceso
-Las prácticas genéricas son las que se institucionalizan
-
-La mejora continua describe un mejoramiento a través de los niveles de capacidad de las Pas. Un nivel de capacidad incluye una meta general con sus prácticas generales asociadas, las cuales son sumadas a las metas y prácticas especificas dentro de esa PA. Cuando una organización completas las metas especificas de una PA y las metas generales, entonces logra un Nivel de Capacidad para esa PA en especifico.
-
- 
-
-Pag 228
-
--	Subestimación de tareas
--	Falta de acciones de seguimiento
--	Tareas no consideraradas  sobrecarga de actividades
-
- 
-
-393
-
-MONITORIZACIÓN Y CONTROL DEL PROYECTO
-Un área de proceso de Gestión de Proyectos en el nivel de madurez 2
-
-Propósito
-El propósito de la Monitorización y Control del Proyecto (PMC) es
-proporcionar una comprensión del progreso del proyecto para que se
-puedan tomar las acciones correctivas apropiadas, cuando el rendimiento
-del proyecto se desvíe significativamente del plan.
-
-Resumen de metas y prácticas específicas
-SG 1 Monitorizar el proyecto frente al plan.
-SP 1.1 Monitorizar los parámetros de planificación del proyecto.
-SP 1.2 Monitorizar los compromisos.
-SP 1.3 Monitorizar los riesgos del proyecto.
-SP 1.4 Monitorizar la gestión de los datos.
-SP 1.5 Monitorizar la involucración de las partes interesadas.
-SP 1.6 Llevar a cabo las revisiones del progreso.
-SP 1.7 Llevar a cado las revisiones de hitos.
-SG 2 Gestionar las acciones correctivas hasta su cierre.
-SP 2.1 Analizar las cuestiones.
-SP 2.2 Llevar a cabo las acciones correctivas.
-SP 2.3 Gestionar las acciones correctivas.
-
+Establecer prioridades
+El objetivo principal del equipo CraftTech es la implementación del proceso de mejora para mitigar los problemas identificados en el proceso de diagnóstico, no es una prioridad la institucionalización.
+Los problemas identificados en el diagnóstico son 
+	-	Subestimación de tareas
+	-	Falta de acciones de seguimiento
+	-	Tareas no consideraradas - sobrecarga de actividades
+Para el programa de mejora se seleccionaron las siguientes áreas de proceso con las cuales se pretende atacar los problemas mencionados anteriormente.
+Monitorización y Control del Proyecto (PMC): Proporciona una comprensión del progreso del proyecto para que se puedan tomar las acciones correctivas apropiadas, cuando el rendimiento del proyecto se desvié significativamente del plan.1
+Planificación del Proyecto (PP) : Establece y mantiene planes que definen las actividades del proyecto 2.
+Desarrollar el enfoque
+Para el proceso de mejora se tendrá en cuenta lo siguiente
+•	Alcance en la organización: La implementación del programa de mejora se realizará en el grupo CraftTech de la especialización.
+•	El modelo: Se adopta el modelo CMMI – DEV el cual es enfocado a desarrollar productos de calidad.
+•	Representación: La representación a seguir es la continua debido a que se enfoca en áreas de proceso, se selecciona un proceso especifico que esté causando problemas. Se utiliza niveles de capacidad para mejorar de forma incremental los procesos de un área.
+•	Nivel de capacidad: El nivel de capacidad al que se quiere llegar es al nivel 1 puesto que se pretende empezar con el cumplimiento de los objetivos específicos sin institucionalizar.
