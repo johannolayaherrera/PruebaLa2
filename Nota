@@ -44,3 +44,20 @@ V.	Revise las pruebas JUnit implementadas. En el proyecto Web, en el test del se
 
 El de ServicioSeguridadMock es una clase que implementa una interfaz, no està definido como un EJB. Por ello se puede obtener una instancia de èl.
 Para el caso de ServicioVendedoresMockTest Si se està probando un EJB por ello no puede ser instanciado sino que se debe tomar la instancia que tiene el contenedor. Para esto debo localizar por medio de JNDI y obtener la instancia. Debido a que JUnit no se encuentra en el contenedor de EJB
+
+**
+ Apasionante con fuerza, amor y servicio
+
+Llegó el momento
+Un honor estar reunido con una parte de los mejores talentos del país dirigirme a ustedes para expresar un poco de lo que fue esta maravillosa experiencia en la especialización para todos nosotros. Definitivamente algo espectacular, comentarles aquellas clases que tocan temas que nos apasionan y nos enamoran un poco más del arte que hacemos y aprendemos cada día. Los profesores que con su conocimiento y desde su humanidad y experiencias transmitían aquellos temas. El gran arte de enseñar. Creatividad, inteligencia e innovación. Y si algunas veces también nos equivocamos.
+Sé que no somos los mismos que ingresamos a la especialización. Esa es la magia de la academia nos brinda una nueva visión de las cosas y pone  en nuestros corazones las ganas de mirar cada vez mas alto.
+La história que hay detrás de cada uno de estos graduandos, nuestras familias, amigos, personas cercanas que fueron un apoyo fundamental en esta etapa de nuestra vida y que son merecedoras de nuestros sinceras gratitudes, aquellas que con una apoyo silencioso nos aguantaron. Si, realmente fue muy difícil, mucho más de lo que esperaba. Pero es difícil porque realmente vale la pena. He aquí el fruto de nuestros esfuerzos, el cansancio se fue y esta noche es nuestra, este logro es nuestro para siempre. 
+Y bueno, ahora que viene ¿? Cuál es nuestro reto ¿? Transformar, servir a los demás y dejar huella. No una huella con nuestro nombre gigante con el fin de vanagloriarnos, una huella que penetre los corazones de aquellos que servimos. Como una frase que leí hace algunos meses. No escribamos código, escribamos el futuro
+Hoy que estamos reunidos una parte de los mejores talentos del país. Que vamos a hacer ¿?
+Administrativos que vamos a hacer, graduandos que vamos a hacer, profesores que vamos hacer. Familias que vamos a hacer, familias sostén de la sociedad que vamos a hacer. Primero cambiemos tu y yo, primero tu y yo. No esperemos a que sueñen los demás primero soñemos tú, yo y los demás soñarán. Una decisión tomada con planeación e inteligencia puede cambiar nuestras vidas. Las cosas realmente pueden cambiar y lo harán. Dirijamos nuestro talento para hacer cosas grandes y ponerlas al servicio de la sociedad. Transformemos y luchemos por nuestros sueños.
+Finalmente. 
+Todo en la vida tiene su tiempo. Y hoy es tiempo de celebrar. Muchas gracias. 
+//
+Por los aislados, por los que creen que no merecen nada pero lo merecen todo,
+//
+
