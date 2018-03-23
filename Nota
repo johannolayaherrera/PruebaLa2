@@ -32,6 +32,54 @@ Si se cambia a StateLess sigue funcionando normalmente porque los métodos de es
 Si se cambiar por singleton no afecta ya que los métodos son independientes del cliente que los ejecuta, pero podría presentarse cuello de botella, y debería tenerse un bloqueo de la escritura mientras se està ejecutando la consulta de todos los clientes para que se tenga consistencia.    aunque lo recomendado en JEE6 es que el singleton se utilice cunado un estado debe ser compartido por toda la aplicación.
 
 
+////////////////////
+
+•	LA OPORTUNIDAD DE SERVIR, EL TALENTO AL SERVICIO DE LA CARIDAD
+Compartir un poco lo que el servicio me llevo a poner mi talento al servicio de la caridad. Contarles un poco de como algo intangible como el software se convierte en el medio para construir grandes puentes que llevaban una idea a su realización.
+-Invitarlos
+//////////////////////////////
+- No es por ser bueno, es una oportunidad que me regalaron un dia y quería compartirla
+//////////////////////////////
+- Frutos del servicio
+Con la gracia de tener un buen promedio durante toda la carrera, el mejor en 9 de los 10 semestres, dure masomenos 1 año y medio pensando, reflexionando sobre lo que realmente quería y lo mas importante intentando servir lo que mas pudiera.
+ (En Bogotá pensaba 2 cosas que era feliz y que era bueno.) El servicio dá una felicidad que no se puede comprar y que realmente nos llena. 
+Tuve la gran fortuna, la gran oportunidad de conocer a unos de los protagonistas de esta historia, aparte de las 3 maravillosas personas que me acompañan hoy. 
+Esta historia trata de 80 maravillosos niños en condición de vulnerabilidad que tuve el privilegio y la gran oportunidad de servir por 4 maravillosos años. Soy indigno y pienso que no merecía tal bendición, pero a fin de cuentas, ¿que nos merecemos? Creo que fue como levantar la mano, dijeron un número y fui el afortunado. Estos 80 niños que asisten a un comedor comunitario liderado por las hermanas franciscanas misioneras del niño Jesús. Me dieron muchas lecciones entre lavarles los platos, servirles el almuerzo y lo mas importante darles amor que era lo que mas necesitaban. Decia el Papa Francisco el ejercicio de tener ese acercamiento con los mas pobres, ese intercambio de palabras y acciones . Aquel pobre que se vuelve parte de nuestras vidas y nosotros de la de Él. Eran niños en situaciones bastante complicadas. Pobres en oportunidades, en el ambiente tan difícil en que vivian, pero que personas tan ricas interiormente tuve la oportunidad de conocer. Aquellos niños que eran realmente felices con un abrazo.  Era maravilloso salir rumbo al comedor desde mi casa y encontrarme en el camino alguno de mis niños.. salían a correr a abrazarme y me iba tomado de la mano con 3 o 4 de ellos, me sentía como alguien muy famoso. Pienso que les caia bien, un dia uno de ellos me preguntó Johann a ud cuanto le pagan por venir al comedor a ayudar?.  Recuerdo que sentía que la pregunta no tenia que ver con una inquietud acerca del salario o algo asi… noté que era una pregunta mas profunda. Le dije nada, no me dan dinero. Me respondió, no le creo, enserio? Entonces porque viene?. Le respondí … porque los quiero mucho. No dijo nada mas pero sé que le agradó la respuesta.  Al visitarlos en sus casas, viven en condiciones muy complicadas, viven en un terreno de esos que llaman “invadido”, no hay piso … solo tierra. Y condiciones que realmente no deberían tener, allí aprendi una gran lección de esa frase que escuchamos … el amor se multiplica. al entrar a aquel sector queriendo entregar el amor que tenia en mi corazón hacia ellos. al  salir de allí el mas beneficiado era yo. El Amor que recibia era mas grande del que iba a ofrecer, son personas maravillosas. Con solo asomarme a aquel sector salían a correr, muy sonrientes. Miren es Johann … decían … Miren a Johann … incluso recuerdo que me señalaban mostrándoles a sus madres, la gran mayoría vivian allí. Creo que sé lo que sienten esos que salen por televisión. Me brindaban lo mejor que tenían por un rato de charla y compañía. Me sentía indigno de recibir tanto amor. Mis niños en situaciones tan difíciles con una sonrisa y bondad en su corazón.. Esas cosas son las que realmente valen la pena en la vida.  Ellos se lo merecían todo. 
+Soy Padrino de 3 de ellos, tres de mis niños que haciendo su curso de confirmación no encontraban en su familia alguien que los acompañara ese día y me gane la lotería iba por 1 y la vida me regalo 3 Habsleidy, jhoan y nicol, los cuales nombro ahora en representación de mis 80. Algo incomparable, riqueza admirable que no se puede comprar. Y estar aquí hablándoles de ellos a uds es algo increíble.
+Algo que realmente llena al corazón y nos regala en las noches un dulce descanso de saber que todo se realizó como debía ser. 
+-// recalcar No es por ser bueno, es una oportunidad que me regalaron un dia y quería compartirla
+//////////////////////////////
+-La lucha y perseverancia, ayudar a lo grande. (Debía darles lo mejor, asi que me porpuse recibir educación de alta calidad, la mejor que el País me ofreciera y aquí estamos) Asesorado por una soñadora que me hizo caer en cuenta que esos sueños
+•	Estudiando a 30 gracod centígrados en Neiva leyendo libros de programación…. Me preguntaban en donde había quedado aquel estudiante excelente? Pero encontrar lo que realmente nos apasiona es mucho mas importante que lo que los demás piensen de ti y de aceptar el minimo como sueldo y recibir algunas miradas de lastima. En donde està el que llamaban “El rolo”  Pero en el fondo SABIA QUE ESTABA EN EL RUMBO ADECUADO. Y que esto sería temporal. Y asi era la rutina … aprendiendo, practicando, trabajando y compartiendo con mis maravillosos niños.
+•	A programar por el almuerzo y los transportes. Recuerdo un día en que ya sentía que había aprendido lo que debía para empezar, y después de buscar en Neiva oportunidade,  le propuse a uno de mis amigos de la infancia que le ayudaba a hacer su trabajo de desarrollador remoto y que solo le pedìa los transportes y el almuerzo, necesitaba conocer un software real, no los ejercicios academicos. 
+•	->	Como ayudar a lo grande con una deuda de 7 millones de pregrado y ganando el minimo ¿?.  Su respuesta fue que no, que me iba a contactar con un amigo que tenia una empresa de desarrollo y así. Obtuve mi primer empleo como desarrollador remoto para un empresa de Bogotá desde Neiva. El cual valore mucho. Intentaba siempre dar mas. Esto me indicada que el camino era el correcto y que las cosas con esfuerzo se van dando. En masomenos un año y medio había aprendido a desarrollar, había conocido aplicaciones reales, pase por 2 empresas de desarrollo que me dieron mucho y les gusto mucho mi trabajo. Ya había pagado mi deuda y estaba ingresando al  posgrado especialización en construcción de sw en una de las mejores universidades del País. Eso fue en Enero del año pasado. El servir a lo grande estaba un poco más cerca.
+--hermano javyrocks
+•	Espero que con IA también suceda lo mismo que al decidir por ello desarrollo. Algo que tengo en el corazón mediante inteligencia artificial poder investigar y  ayudar a encontrar cura de enfermedades. Un camino que también empieza y que de nuevo algo me dice que allí es. Motivado a la Maetria en IA creo que es algo se puede servir.
+
+
+
+
+//////////////////////////////
+
+- Afortunados. El lugar donde se nace influye bastante en la vida de una persona, no vivi en uno de los barrios mas ricos de la ciudad. Crecí al suroriente de la ciudad un poco mas arriba del 20 de julio, me considero afortunado como todos los que están aquí, algún día se nos dío una oportunidad. Y aquí estamos. Espero poder darle esa oportunidad que se me fue dado un dia a personas que como yo lo necesitaban. Ojala no sea solo con una palabra sino con acciones. 
+
+//////////////////////////////
+Graduandos compartir con uds esta experiencia es un gran honor, realmente son personas talentosas, nos equivocamos, discutimos, nos preocupamos, reimos, acertamos e hicimos aviones de papel. El ML entre Monserrate y Guadalupe que me recordaba el porqué estaba aqui. Y las clases que tocaban esos temas que nos apasionan. 
+
+Finalizar concretando el mensaje para ellos. La gracia de servir llena el alma. Animarlos 
+
+Oportunidades, Situaciones, decisiones que tomamos pero si algo dentro nos dice que es lo correcto pienso que al pasarlo por la razón y se ven buenas opciones es porque allí es el camino. 
+
+
+Llegó el momento
+Un honor estar reunido con una parte de los mejores talentos del país dirigirme a ustedes para expresar un poco de lo que fue esta maravillosa experiencia en la especialización para todos nosotros. Definitivamente algo espectacular, comentarles aquellas clases que tocan temas que nos apasionan y nos enamoran un poco más del arte que hacemos y aprendemos cada día. El ML entre Monserrate y Guadalupe que me recordaba el porqué estaba aqui. Los profesores que con su conocimiento y desde su humanidad y experiencias transmitían aquellos temas. El gran arte de enseñar. Creatividad, inteligencia e innovación. Y si algunas veces también nos equivocamos. 
+Sé que no somos los mismos que ingresamos a la especialización. Esa es la magia de la academia nos brinda una nueva visión de las cosas y pone  en nuestros corazones las ganas de mirar cada vez mas alto.
+La história que hay detrás de cada uno de estos graduandos, nuestras familias, amigos, personas cercanas que fueron un apoyo fundamental en esta etapa de nuestra vida y que son merecedoras de nuestros sinceras gratitudes, aquellas que con una apoyo silencioso nos aguantaron. Si, realmente fue muy difícil, mucho más de lo que esperaba. Pero es difícil porque realmente vale la pena. He aquí el fruto de nuestros esfuerzos, el cansancio se fue y esta noche es nuestra, este logro es nuestro para siempre. 
+Y bueno, ahora que viene ¿? Cuál es nuestro reto ¿? Transformar, servir a los demás y dejar huella. No una huella con nuestro nombre gigante con el fin de vanagloriarnos, una huella que penetre los corazones de aquellos que servimos. Como una frase que leí hace algunos meses. No escribamos código, escribamos el futuro
+Hoy que estamos reunidos una parte de los mejores talentos del país. Que vamos a hacer ¿?
+Administrativos que vamos a hacer, graduandos que vamos a hacer, profesores que vamos hacer. Familias que vamos a hacer, familias sostén de la sociedad que vamos a hacer. Primero cambiemos tu y yo, primero tu y yo. No esperemos a que sueñen los demás primero soñemos tú, yo y los demás soñarán. Una decisión tomada con planeación e inteligencia puede cambiar nuestras vidas. Las cosas realmente pueden cambiar y lo harán. Dirijamos nuestro talento para hacer cosas grandes y ponerlas al servicio de la sociedad. Transformemos y luchemos por nuestros sueños.
+Finalmente. 
+Todo en la vida tiene su tiempo. Y hoy es tiempo de celebrar. Muchas gracias. 
 
 
 
@@ -46,18 +94,4 @@ El de ServicioSeguridadMock es una clase que implementa una interfaz, no està d
 Para el caso de ServicioVendedoresMockTest Si se està probando un EJB por ello no puede ser instanciado sino que se debe tomar la instancia que tiene el contenedor. Para esto debo localizar por medio de JNDI y obtener la instancia. Debido a que JUnit no se encuentra en el contenedor de EJB
 
 **
- Apasionante con fuerza, amor y servicio
-
-Llegó el momento
-Un honor estar reunido con una parte de los mejores talentos del país dirigirme a ustedes para expresar un poco de lo que fue esta maravillosa experiencia en la especialización para todos nosotros. Definitivamente algo espectacular, comentarles aquellas clases que tocan temas que nos apasionan y nos enamoran un poco más del arte que hacemos y aprendemos cada día. Los profesores que con su conocimiento y desde su humanidad y experiencias transmitían aquellos temas. El gran arte de enseñar. Creatividad, inteligencia e innovación. Y si algunas veces también nos equivocamos.
-Sé que no somos los mismos que ingresamos a la especialización. Esa es la magia de la academia nos brinda una nueva visión de las cosas y pone  en nuestros corazones las ganas de mirar cada vez mas alto.
-La história que hay detrás de cada uno de estos graduandos, nuestras familias, amigos, personas cercanas que fueron un apoyo fundamental en esta etapa de nuestra vida y que son merecedoras de nuestros sinceras gratitudes, aquellas que con una apoyo silencioso nos aguantaron. Si, realmente fue muy difícil, mucho más de lo que esperaba. Pero es difícil porque realmente vale la pena. He aquí el fruto de nuestros esfuerzos, el cansancio se fue y esta noche es nuestra, este logro es nuestro para siempre. 
-Y bueno, ahora que viene ¿? Cuál es nuestro reto ¿? Transformar, servir a los demás y dejar huella. No una huella con nuestro nombre gigante con el fin de vanagloriarnos, una huella que penetre los corazones de aquellos que servimos. Como una frase que leí hace algunos meses. No escribamos código, escribamos el futuro
-Hoy que estamos reunidos una parte de los mejores talentos del país. Que vamos a hacer ¿?
-Administrativos que vamos a hacer, graduandos que vamos a hacer, profesores que vamos hacer. Familias que vamos a hacer, familias sostén de la sociedad que vamos a hacer. Primero cambiemos tu y yo, primero tu y yo. No esperemos a que sueñen los demás primero soñemos tú, yo y los demás soñarán. Una decisión tomada con planeación e inteligencia puede cambiar nuestras vidas. Las cosas realmente pueden cambiar y lo harán. Dirijamos nuestro talento para hacer cosas grandes y ponerlas al servicio de la sociedad. Transformemos y luchemos por nuestros sueños.
-Finalmente. 
-Todo en la vida tiene su tiempo. Y hoy es tiempo de celebrar. Muchas gracias. 
-//
-Por los aislados, por los que creen que no merecen nada pero lo merecen todo,
-//
 
